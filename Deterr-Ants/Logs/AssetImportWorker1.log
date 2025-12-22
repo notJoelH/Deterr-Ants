@@ -271,3 +271,303 @@ Received Import Request.
 Start importing Assets/Scenes/Main Menu.unity using Guid(57a112aa58c85544abf2d1ec47ce495e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '240b08dc9a570c1f1c06623233536ce6') in 0.0463593 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 509.754912 seconds.
+  path: Assets/Materials/Animations/Ants/Fire
+  artifactKey: Guid(90580cf74742d4d4cb5ff3d869794dbf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Fire using Guid(90580cf74742d4d4cb5ff3d869794dbf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8f5e61cf0992fcbe05b9e4494d664b40') in 0.0133887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Materials/Animations/Enemy Death/Death_4.png
+  artifactKey: Guid(b7c68dd8c88c9da458cdb27aec8847aa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemy Death/Death_4.png using Guid(b7c68dd8c88c9da458cdb27aec8847aa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4567a8b86866a9ad3a11d9380e1b789b') in 0.2429783 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Materials/Animations/Enemies/WoodLouse/WoodLouse_2.png
+  artifactKey: Guid(a218d475595130640a5b1c2ec7ed0b8f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemies/WoodLouse/WoodLouse_2.png using Guid(a218d475595130640a5b1c2ec7ed0b8f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '18b17c2a97c90d108761ad8335d115a3') in 0.0245579 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/Animations/Enemies/Spider/Spider_2.png
+  artifactKey: Guid(9e20de6a216759147a0fb7c4696a3f07) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemies/Spider/Spider_2.png using Guid(9e20de6a216759147a0fb7c4696a3f07) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7885e89cb33b9e4a9b64ed4bbf581ac9') in 0.0799995 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/Environment/game invironment final.png
+  artifactKey: Guid(2789326a83881a9449f4d892f83bb656) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Environment/game invironment final.png using Guid(2789326a83881a9449f4d892f83bb656) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '69892ee604a72dad8c536680e83f5b38') in 0.0293084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Materials/Animations/Enemies
+  artifactKey: Guid(f653b2c7f19e4334a8f132c7e408d8eb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemies using Guid(f653b2c7f19e4334a8f132c7e408d8eb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7836806064b753a63612d71a81e02d08') in 0.0041549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/Animations/Ants/Fire/Fire_2.png
+  artifactKey: Guid(1e5fc3b0c5505af49bfb62ab330491df) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Fire/Fire_2.png using Guid(1e5fc3b0c5505af49bfb62ab330491df) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ad683fa74cc4d27b4a11b2355776210b') in 0.0250543 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Projectile/E_Projectile_3.png
+  artifactKey: Guid(2d0f675225a27ce44bbdfd5bd0d8d5b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Projectile/E_Projectile_3.png using Guid(2d0f675225a27ce44bbdfd5bd0d8d5b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e00619605a2547ccd05000f707bef4ac') in 0.0192779 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Materials/Animations/Ants/Electric
+  artifactKey: Guid(1b26929456cd9e9458402de6c285cd6a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric using Guid(1b26929456cd9e9458402de6c285cd6a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '62cfb7c6746a5f10787bde1eb8fe351f') in 0.0069549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Materials/Animations/Enemies/WoodLouse/WoodLouse_1.png
+  artifactKey: Guid(eb2631bf2cd278d41a3f46bdc67ddd57) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemies/WoodLouse/WoodLouse_1.png using Guid(eb2631bf2cd278d41a3f46bdc67ddd57) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3cf845d025f1c8fb7ad1e632ea7a6363') in 0.0309193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/Animations/Ants/Carpenter
+  artifactKey: Guid(66327a5e585d28b4e9b565e55ca9f0de) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Carpenter using Guid(66327a5e585d28b4e9b565e55ca9f0de) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '57e299b86b14e54b8a93ae4fef25737b') in 0.0076385 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Projectile/E_Projectile_2.png
+  artifactKey: Guid(8e4bdd021d47da54db8bf71a153b0d67) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Projectile/E_Projectile_2.png using Guid(8e4bdd021d47da54db8bf71a153b0d67) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f5cd1151bcdee866e52888a78ea911a3') in 0.0308042 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Charge/Charge_1.png
+  artifactKey: Guid(a13912941fc68744090266809cccfb4c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Charge/Charge_1.png using Guid(a13912941fc68744090266809cccfb4c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9e6246c8b8331935471d627a1ef9a928') in 0.0252462 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Materials/Animations/Enemy Death/Death_6.png
+  artifactKey: Guid(74a3dd1f3b4e22c479c4be4823e50e6a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemy Death/Death_6.png using Guid(74a3dd1f3b4e22c479c4be4823e50e6a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3c8e7ab7b19af59b453741f33364ab9c') in 0.0611434 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/Sprites/Ants/elecricity_antfinal.png
+  artifactKey: Guid(9711b79fb48ad054b80b6a7d7006ca3a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Sprites/Ants/elecricity_antfinal.png using Guid(9711b79fb48ad054b80b6a7d7006ca3a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '40a1bcb5e3b58868b458f03d532c6fc1') in 0.0153377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Materials/Animations/Enemy Death/Death_2.png
+  artifactKey: Guid(65a7b8bee4c2d274eb5623d0a489dd36) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemy Death/Death_2.png using Guid(65a7b8bee4c2d274eb5623d0a489dd36) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f259bcb1a36827505cd4c3a4560647af') in 0.0379235 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Charge/Charge_3.png
+  artifactKey: Guid(71888f4185a4bf34ab27e162833ac41b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Charge/Charge_3.png using Guid(71888f4185a4bf34ab27e162833ac41b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1c246debbc7fd1877b9b7f9d8f8335b0') in 0.0159138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Materials/Sprites/Bugs/beetle.png
+  artifactKey: Guid(4f593d40ae3b870458a58d6c40a53b3a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Sprites/Bugs/beetle.png using Guid(4f593d40ae3b870458a58d6c40a53b3a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '903291ff2891ce16911024374a540320') in 0.0417529 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Materials/Animations/Ants/Carpenter/Cloud_5.png
+  artifactKey: Guid(8bd9ef7183e666b47a08682bf35cd177) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Carpenter/Cloud_5.png using Guid(8bd9ef7183e666b47a08682bf35cd177) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6ba2d2ffb82b2680bd0756116bceb1a8') in 0.0283483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Materials/Animations/Ants/Carpenter/Cloud_2.png
+  artifactKey: Guid(da7a334d83f92cc449fd066f7d9c8c5d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Carpenter/Cloud_2.png using Guid(da7a334d83f92cc449fd066f7d9c8c5d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a31c0c193a97cbcf93f3e086a0ae9456') in 0.0287712 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Materials/Animations/Enemies/WoodLouse/WoodLouse_3.png
+  artifactKey: Guid(1d904914733ade548b71b009d1d1491c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemies/WoodLouse/WoodLouse_3.png using Guid(1d904914733ade548b71b009d1d1491c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'eea7a4f145105d7aa4ce26ab247767ab') in 0.0362587 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Materials/Animations/Enemy Death
+  artifactKey: Guid(8967fc304ea49ec45ba44de9b2211d2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemy Death using Guid(8967fc304ea49ec45ba44de9b2211d2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6e491672e045c061f4cd23cf76094063') in 0.0059678 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Charge
+  artifactKey: Guid(de9c690369cf94247bbb390c91a5822d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Charge using Guid(de9c690369cf94247bbb390c91a5822d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3662694f462b2e395d80cc964e13a3d1') in 0.0052344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Materials/Animations/Enemies/Tiger Beetle/TigerBeetle_1.png
+  artifactKey: Guid(d221d914b1d2f384fbb4c219aa8f7306) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemies/Tiger Beetle/TigerBeetle_1.png using Guid(d221d914b1d2f384fbb4c219aa8f7306) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ce9af41d76d609b1a176352c7c401a55') in 0.1359033 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Projectile
+  artifactKey: Guid(a3c5ccdcc9f5a5b438f441a9b3fee728) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Projectile using Guid(a3c5ccdcc9f5a5b438f441a9b3fee728) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e97ca149ef3812bfff599257cab0abdd') in 0.0051805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Materials/Animations/Ants/Fire/Fire_4.png
+  artifactKey: Guid(dd583bf5d275ffa419b1fde3de33c366) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Fire/Fire_4.png using Guid(dd583bf5d275ffa419b1fde3de33c366) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '66db539919837816d54af7f76bc2f98d') in 0.0328274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/Animations/Ants/Fire/Fire_5.png
+  artifactKey: Guid(ac538d9bebe0e104abd71ec4e7ee5699) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Fire/Fire_5.png using Guid(ac538d9bebe0e104abd71ec4e7ee5699) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '09c7886a1da366cf3d290ef437baf56d') in 0.0336004 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Materials/Animations/Enemies/Tiger Beetle/TigerBeetle_2.png
+  artifactKey: Guid(73181f130cb2caf4eb90a95acc7de0cb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemies/Tiger Beetle/TigerBeetle_2.png using Guid(73181f130cb2caf4eb90a95acc7de0cb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6ff8c6f8c0f70aabe41a6624b17ef2f3') in 0.0284688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Materials/Animations/Enemy Death/Death_7.png
+  artifactKey: Guid(9ddbe545d4cdfcd419b27320ba6962e8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemy Death/Death_7.png using Guid(9ddbe545d4cdfcd419b27320ba6962e8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '82a68a8ca7f75f2e61003af085e2bdbf') in 0.0310937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Charge/Charge_8.png
+  artifactKey: Guid(6debbd33df782de4fb826bdef0acdb44) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Charge/Charge_8.png using Guid(6debbd33df782de4fb826bdef0acdb44) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd64917de73ce2569935fbc242945f41e') in 0.0180054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Materials/Animations/Ants/Electric/Electric Projectile/E_Projectile_1.png
+  artifactKey: Guid(9349debc6f7522e498df1d9a7190f81e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Ants/Electric/Electric Projectile/E_Projectile_1.png using Guid(9349debc6f7522e498df1d9a7190f81e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b4a0671462e2f1af8fd845e224ed65d8') in 0.0331468 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Materials/Sprites/Ants/bullet_antfinal.png
+  artifactKey: Guid(49fd4d752873ea24087776f3fdbd2eba) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Sprites/Ants/bullet_antfinal.png using Guid(49fd4d752873ea24087776f3fdbd2eba) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e07cf5d19ddc078aceeff8e80bc77416') in 0.0184456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Materials/Sprites/Ants/fire_antfinal.png
+  artifactKey: Guid(1b77d799e6b9f8144bf7b1f257dbf1e8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Sprites/Ants/fire_antfinal.png using Guid(1b77d799e6b9f8144bf7b1f257dbf1e8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd92c14c9a6ab4c287e8586874139dabf') in 0.0217422 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Materials/Animations/Enemy Death/Death_3.png
+  artifactKey: Guid(c45a423596fe70e48ba08b7f48e2d637) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Materials/Animations/Enemy Death/Death_3.png using Guid(c45a423596fe70e48ba08b7f48e2d637) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2a7e9ace7d26e52e257e389d1a32a9c2') in 0.0506864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.161708 seconds.
+  path: Assets/Materials/Animations/Ants/Carpenter/Cloud_3.png
+  artifactKey: Guid(7404734b182518e4b9c8b6cce49cd093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Animations/Ants/Carpenter/Cloud_3.png using Guid(7404734b182518e4b9c8b6cce49cd093) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '83a6901f500de0e65769dfc56997e8cd') in 0.2239857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Materials/Animations/Ants/Carpenter/Cloud_7.png
+  artifactKey: Guid(d6f1871980e761845a1c2fdaf3fe0511) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Animations/Ants/Carpenter/Cloud_7.png using Guid(d6f1871980e761845a1c2fdaf3fe0511) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4bcbab9c7cac61c9cfc46ba57e18d695') in 0.0393657 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.965824 seconds.
+  path: Assets/Materials/Environment/home_screen_final.png
+  artifactKey: Guid(99995ef5689567049b28af3322f18561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Environment/home_screen_final.png using Guid(99995ef5689567049b28af3322f18561) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ace0d7adcc94d361f29fa6d73268e4e') in 0.024621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
